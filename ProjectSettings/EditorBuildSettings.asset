@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 922bdb8f6b1524b459fd05c7db802c00
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 8d9bbf58a3150ed4ba5edd69e7c83a30
+  - enabled: 1
+    path: Assets/Scenes/Pass Tutorial.unity
+    guid: b82d91d969ade154a88d528a1577f2bb
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Pass.unity
+    guid: 394e067119835b34bbd206e848ba31a2
+  - enabled: 1
+    path: Assets/Scenes/Fly Over 1.unity
+    guid: 9536b387c55c96248b60cfdcbc21c775
+  - enabled: 1
+    path: Assets/Scenes/Pass 1.unity
+    guid: ee3d9431791b76744bcefa146f4ddab7
+  - enabled: 1
+    path: Assets/Scenes/Gap.unity
+    guid: 9de8beb3f63330c419a334f7714a4926
+  - enabled: 1
+    path: Assets/Scenes/Pass 2.unity
+    guid: ff9d0c2ab34899a4a94e01e47130e610
+  - enabled: 1
+    path: Assets/Scenes/Advanced Gap.unity
+    guid: 531acac998926bf4c9db8dd675c67321
+  - enabled: 1
+    path: Assets/Scenes/Pass 3.unity
+    guid: dc11e7f0f02bbb543b1f7c0732aa1bd6
+  - enabled: 1
+    path: Assets/Scenes/Timing.unity
+    guid: 039645a65c3ca144cae3f055aa26cb13
+  - enabled: 1
+    path: Assets/Scenes/Pass 4.unity
+    guid: 67fcd7b77f8192d48a2157c94d64df21
+  - enabled: 1
+    path: Assets/Scenes/Gap and Timing.unity
+    guid: 07b32e781eddbd1449fe5d0bbec0d992
+  - enabled: 1
+    path: Assets/Scenes/PassAll.unity
+    guid: 561745caff1454d41b9bac2dc70d08e7
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 51cb275d67a1a804292f1d6ff26059c2
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: bcc54b9cba956df4f8159b69a5c4b8c8
+  m_configObjects: {}
